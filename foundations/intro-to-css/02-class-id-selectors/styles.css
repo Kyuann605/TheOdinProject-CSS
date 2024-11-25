@@ -1,0 +1,18 @@
+p {
+    background-color: pink;
+}
+
+p#no3 {
+    font-size: 36px;
+}
+
+#no2 {
+    font-size: 36px;
+    color: blue;
+}
+
+#no4 {
+    font-size: 24px;
+    background-color: lightgreen;
+    font-weight: bold;
+}
